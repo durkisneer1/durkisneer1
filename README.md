@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on The Story of Krampus
+- 🌱 I’m currently learning Linear Algebra in Data Science
+- 🤔 I’m looking for help with Java and C
+- 📫 How to reach me: https://discord.gg/tqvwPVrG
+- ⚡ Fun fact: I make music too
+
 <!--
 **durkisneer1/durkisneer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
