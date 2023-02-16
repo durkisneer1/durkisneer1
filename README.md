@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on The Story of Krampus
 - 🌱 I’m currently learning Linear Algebra in Data Science
 - 🤔 I’m looking for help with Java and C++
-- 📫 How to reach me: https://discord.gg/tqvwPVrG
+- 📫 How to reach me: https://discord.gg/asTwVWXrrC
 - ⚡ Fun fact: I make music too
 
 <!--
