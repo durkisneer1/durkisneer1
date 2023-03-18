@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Mage and Muse 2
+- 🔭 I’m currently working on Mage and Muse 2 and a Student Database
 - 🌱 I’m currently learning Linear Algebra in Data Science
 - 🤔 I’m looking for help with Java and C++
 - 📫 How to reach me: https://discord.gg/asTwVWXrrC
