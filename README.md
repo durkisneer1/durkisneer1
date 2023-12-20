@@ -2,8 +2,8 @@
 
 <ul>
   <li>🔭 I’m currently working on Kraken Engine and Mage and Muse 2</li>
-  <li>🌱 I am a helpfulie and event forger for the <a href="https://github.com/pygame-community" target="_blank">Pygame Community</a></li>
-  <li>🙌 You can reach me through my <a href="https://discord.gg/GyyddE7AD5" target="_blank">Discord</a> server or through my <a href="https://durkisneer1.github.io/" target="_blank">portfolio</a></li>
+  <li>🌱 I am a helpfulie and event forger for the <a href="https://github.com/pygame-community">Pygame Community</a></li>
+  <li>🙌 You can reach me through my <a href="https://discord.gg/GyyddE7AD5">Discord</a> server or through my <a href="https://durkisneer1.github.io/">portfolio</a></li>
 </ul>
 
 <h3>I know:</h3>
