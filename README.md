@@ -16,7 +16,7 @@
 
 <h3>Learning:</h3>
 <div style="display: flex;">
-  <img src="https://godotengine.org/assets/press/icon_color.svg" height=48>
+  <img src="https://godotengine.org/assets/press/icon_color.png" height=48>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height=48>
 </div>
 
