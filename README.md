@@ -18,6 +18,7 @@
 <div style="display: flex;">
   <img src="https://godotengine.org/assets/press/icon_color.png" height=48>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height=48>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/64px-Cmake.svg.png" height=48>
 </div>
 
 <br>
