@@ -23,4 +23,4 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durkisneer1&layout=compact&hide_border=false&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durkisneer1&layout=compact&hide_border=true&theme=gruvbox)
