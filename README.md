@@ -16,7 +16,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Statistics<br>🎯 Goals: Popularize Kraken Engine</p>
+<p align="left">
+  ✨ Creating bugs since 2021<br>
+  📚 I'm currently learning MVC design in Rust and deep learning in Python<br>
+  🎯 Goals: Popularize Kraken Engine
+</p>
 
 ###
 
