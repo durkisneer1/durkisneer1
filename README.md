@@ -1,9 +1,10 @@
 <p align="center">
   <a href="https://docs.krakenengine.org">
     <img
-      src="./shaders.gif"
+      src="./shaders-banner.gif"
       width="100%"
       alt="Custom fragment shaders running in Kraken Engine"
+      style="border-radius: 0.8em;"
     />
   </a>
   <br />
